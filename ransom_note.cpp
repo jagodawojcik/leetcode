@@ -33,3 +33,17 @@
    
         return 0;
         }
+
+    // Alternative
+
+    //     for (size_t i = 0; i < ransomNote.length(); i++)
+    //     {
+    //         size_t index = magazine.find(ransomNote[i]);
+
+    //         if (index == string::npos) {
+    //             return false;
+    //         }
+    //         magazine.erase(index, 1);
+    //     }
+    //     return true;
+    // }
