@@ -1,6 +1,7 @@
 {
     "files.associations": {
         "string": "cpp",
-        "bitset": "cpp"
+        "bitset": "cpp",
+        "unordered_map": "cpp"
     }
 }
